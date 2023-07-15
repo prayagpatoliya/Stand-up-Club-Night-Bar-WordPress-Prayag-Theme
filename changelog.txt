@@ -1,0 +1,44 @@
+Version: 1.9.0
+    Fix: CSS\JS\PHP fixes
+    Added: New addon QW Extension (theme compatibility)
+
+Version: 1.8.0
+    Fix: PHP fixes for teams layouts
+    Fix: CSS\JS\PHP fixes (shortcods)
+    Added: New trx_addons option "Show mouse helper in swiper slider" 
+
+Version: 1.7.0
+	Skin 'default' is updated to the version 1.3.
+
+Version: 1.6.0
+    Added: WPC Smart Quick View for WooCommerce compatibility
+    Added: 3 new product styles for the product feed
+    Added: New functionality for WooCommerce
+    Added: Single product appearance improved
+    Added: Hotspot shortcode
+    Fix: CSS fixes (Booked)
+
+Version: 1.5.0
+	Skin 'default' is updated to the version 1.2.
+
+Version: 1.4.0
+    Fix: CSS\JS\PHP fixes for WP 6.0 (shortcodes and layouts)
+    Fix: CSS fixes (The Events Calendar)
+    Fix: Minor CSS\PHP fixes (shortcode and widget layouts)
+    Fix: Languages POT file
+    Fix: PHP8 - for Categories list widget
+
+Version: 1.3.0
+    Fix: CSS\JS\PHP fixes for WP 5.9+ (shortcodes and layouts)
+
+Version: 1.2.0
+	Skin 'default' is updated to the version 1.1.
+
+Version: 1.1.0
+    Fix: CSS\PHP fixes (shortcodes\widget layouts)
+    Fix: CSS fixes (The Events Calendar, Booked)
+    Fix: Improved comppatibility with YITH Wishlist plugin.
+    Fix: WooCommerce Cart behavior on mobile devices.
+    Fix: WPML (translated page editing)
+
+Release: v.1.0.0
